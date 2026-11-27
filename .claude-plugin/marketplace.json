@@ -1,0 +1,12 @@
+{
+  "name": "xo-launchpad",
+  "owner": { "name": "Krish Bhimani" },
+  "metadata": { "description": "Claude Code plugins for XO Launchpad." },
+  "plugins": [
+    {
+      "name": "launchpad",
+      "source": "./plugins/launchpad",
+      "description": "Manage your XO Launchpad apps from Claude Code. Sign in with your XO account; no API keys."
+    }
+  ]
+}

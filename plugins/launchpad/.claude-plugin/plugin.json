@@ -1,0 +1,8 @@
+{
+  "name": "launchpad",
+  "description": "Manage your XO Launchpad apps: list, status, logs, events, releases, start/stop/restart. Sign in with your XO account (OAuth); no API keys.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Krish Bhimani"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "launchpad": {
+      "type": "http",
+      "url": "https://launchpad-mcp-xo-xpf8o5s.apps.hello-xo.nl/mcp"
+    }
+  }
+}
